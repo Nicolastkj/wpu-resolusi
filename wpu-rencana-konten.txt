@@ -1,4 +1,5 @@
 rencana konten wpu
 - javascript
+  ES6
 - php
 - vlogs
