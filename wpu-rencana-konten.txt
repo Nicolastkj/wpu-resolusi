@@ -3,4 +3,5 @@ rencana konten wpu
   ES6
 - struktur data dasar
 - php
+^ laravel
 - vlogs
